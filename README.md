@@ -10,16 +10,16 @@ Sistema de aluguer de viaturas desenvolvido em Node.js.
 
 ## Rotas
 
-POST /api/cars
-GET /api/cars
-PUT /api/cars/:id
-DELETE /api/cars/:id
+POST /api/carros
+GET /api/carros
+PUT /api/carros/:id
+DELETE /api/carros/:id
 
-POST /api/clients
-GET /api/clients
+POST /api/clientes
+GET /api/clientes
 
-POST /api/reservations
-GET /api/reservations
+POST /api/reservas
+GET /api/reservas
 
 ## Tecnologias
 
